@@ -10,7 +10,7 @@
 <br><br><br><br><br><br>
 <br><hr><br>
 
-![](https://shinjiyoonbar.github.io/Project-LoveYoonArchive/OtherSources/Images/LetterOfWarToThePaste.jpg)
+![](https://shinjiyoonbar.github.io/Project-LoveYoonArchive/Twitter/2022/6/Images/twitter_220602_LetterOfWarToThePaste.jpg)
 
 <br><hr><br>
 
