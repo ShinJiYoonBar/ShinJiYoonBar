@@ -258,6 +258,8 @@
 <br>
 
 
-<br><br><br><br><br><hr><br>
+<br><br><br><br><br>
+---
+<br>
 
 > 此页面由[泵蹦](https://github.com/Deleeete)开发的`DirBuilder`程序根据[爱阭站资料存档计划](https://github.com/ShinJiYoonBar/Project-LoveYoonArchive)目录结构自动生成。
