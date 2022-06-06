@@ -4,6 +4,6 @@
 Weverse图片
 <br>
 
-## [推特（404）](./Twitter.md/)
+## [推特](./Twitter.md/)
 Twitter推文
 <br>
