@@ -1,4 +1,4 @@
-# ShinJiYoonBar_申智阭吧
+# 欢迎来到ShinJiYoonBar_申智阭吧
 
 ## [Project: LoveYoonArchive](./ProjectLoveYoonArchive/)
 爱阭站资料存档计划

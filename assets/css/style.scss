@@ -1,9 +1,13 @@
 @import "{{ site.theme }}";
 
-.btn {
+#footer_wrap {
     display: none;
 }
 
-.site-footer {
+#forkme_banner {
+    display: none;
+}
+
+#downloads {
     display: none;
 }
